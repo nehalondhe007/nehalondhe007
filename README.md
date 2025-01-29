@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neha-londhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-londhe" height="30" width="40" /></a>
-  <a href="https://resumepal.fyi/portfolio/f6c18371-dace-4be5-96f5-1c588fdff0d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-londhe" height="30" width="40" /></a>
 <a href="https://hashnode.com/@nehalondhe007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nehalondhe007" height="30" width="40" /></a>
 </p>
 
